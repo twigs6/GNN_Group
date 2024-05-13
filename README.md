@@ -42,4 +42,4 @@
 
 2.王祉羿
 
-3.王潇桦
+3.王潇桦:2023 Towards Understanding the Generalization of Graph Neural Networks
